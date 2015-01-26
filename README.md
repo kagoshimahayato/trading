@@ -1,0 +1,2 @@
+# trading
+for market trading
